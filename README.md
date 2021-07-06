@@ -8,3 +8,5 @@ Repositório criado para conter a solução do desafio Criando um Ecossistema Ha
 parte do bootcamp Banco Carrefour Data Engineer da plataforma Digital Innovation One. Maiores detalhes em 
 
 https://github.com/marcelomarques05/dio-desafio-dataproc.
+
+Estrutura GCP porém todo detalhe do uso das bases criadas precisam ser analisadas conforme orientado em aula, é necessário ter cuidado.
