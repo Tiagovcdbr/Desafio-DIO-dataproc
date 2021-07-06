@@ -1,0 +1,12 @@
+## Resultado das 10 palavras que mais aparecem no livro
+
+the
+and
+of
+I
+to
+my
+a
+in
+was
+that
